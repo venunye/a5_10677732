@@ -18,7 +18,7 @@ using namespace std;
 
 	//main()
 
-int main() {
+int main( int argc,char ***argv) {
 	
 	
 	double averageAge, averageScore;
